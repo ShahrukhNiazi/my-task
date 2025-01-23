@@ -280,4 +280,27 @@ header {
   }
 }
 
+.ball {
+  width: 10px;
+  height: 10px;
+  background-color: var(--primary-color);
+  border-radius: 1%;
+  position: relative;
+  animation: moveLeftRight 4s infinite ease-in-out;
+  transform: rotate(45deg);
+  top: -10px;
+}
+
+.ball2 {
+  position: relative;
+  &:before {
+    content: "";
+    width: 110px;
+    height: 2px;
+    position: absolute;
+    background-color: var(--primary-color);
+    top: -6px;
+  }
+}
+
 // member-main

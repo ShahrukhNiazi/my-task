@@ -38,7 +38,10 @@
         <div class="row">
           <div class="col-lg-6 col-sm-6 col-xs-12">
              <article>
-                <h5>Northstar Yacht Club</h5>
+                 <div class="ball2">
+                   <div class="ball"></div>
+                 </div>
+                  <h5>Northstar Yacht Club</h5>
                 <h2>A WELCOMING GOLF & BOATING COMMUNITY IN VERO BEACH, THE HEART OF FLORIDA’S TREASURE COAST.</h2>
                 <p>Established over 40 years ago, Northstar Yacht Club is one of Vero Beach’s most prestigious, private clubs. Located on the shores of the Indian River Lagoon, a piece of paradise awaits you.</p>
                 <h5 class="mission">Our Mission</h5>
